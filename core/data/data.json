@@ -1,5 +1,13 @@
 {
     "url": {
-        "register": "https://parabank.parasoft.com/parabank/register.htm"
+        "register": "https://parabank.parasoft.com/parabank/register.htm",
+        "login": "https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC"
+    },
+    "user": {
+        "username": "kan",
+        "password": "burch123"
+    },
+    "titles": {
+        "accounts": "Accounts Overview"
     }
 }
